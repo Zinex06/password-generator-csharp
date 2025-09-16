@@ -6,8 +6,6 @@ class Program
     {
         string password = CreatePassword(25);
         Console.WriteLine(password);
-
-        // changes test
     }
 
     static string CreatePassword(int length)
