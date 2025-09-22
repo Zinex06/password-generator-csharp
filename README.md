@@ -12,4 +12,4 @@ This simple generator turns a random combination of lowercase letters, uppercase
 ### Executing program
 1. Clone the repository
 2. Open the solution in Visual Studio (.sln)
-3. Build and run the project
+3. Run the project
