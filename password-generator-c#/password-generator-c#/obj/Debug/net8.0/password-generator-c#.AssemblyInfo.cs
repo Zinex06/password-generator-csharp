@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("password-generator-c#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6fd7569c7a7e2e99c8b74c2aeef0edbd1e7541a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20fea6a88a4f7808e5c455bbaef6f0ed9237da42")]
 [assembly: System.Reflection.AssemblyProductAttribute("password-generator-c#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("password-generator-c#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
